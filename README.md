@@ -1,4 +1,4 @@
-# ScalaSynthesizer
+# Scala-Synthesizer
 Alternatives tuning polyphony synthesizer 
 
 Instructions: 
