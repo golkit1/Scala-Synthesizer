@@ -13,7 +13,7 @@ On mac usually can find at: “/Users/***/Music/Ableton/User Library/Presets/Ins
 
 4. enjoy
 
-
+*Please email me at omer1789@gmail.com for any questions, bug reports, ideas for improvments etc etc.
 
 
 
